@@ -1,5 +1,5 @@
 # PacMan-Frenzy
-### Generate a PacMan army and send them bouncing across the screen!
+### [Generate a PacMan army and send them bouncing across the screen!](https://github.com/MorganMaltba/PacMan-Frenzy)
 
 **Description:** <br>
 This project creates a new PacMan at the click of the Add PacMan button. <br>
